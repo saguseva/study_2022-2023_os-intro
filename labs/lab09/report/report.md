@@ -134,8 +134,7 @@ vi ~/work/os/lab06/hello.sh
 
 Создадим каталог с именем ~/work/os/lab09 (рис. @fig:001).
 
-![Название рисунка](image/1.pmg){#fig:001 width=70%}
-
+![Название рисунка](image/1.png){#fig:001 width=70%}
 
 
 # Выводы

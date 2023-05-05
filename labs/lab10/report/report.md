@@ -343,6 +343,7 @@ Ctrl+c Ctrl+Shift+\
 
 # Список литературы{.unnumbered}
 
-::: {https://www.opennet.ru/docs/RUS/gnuemacs/emacs_20.html}
-{https://ru.wikipedia.org/wiki/Emacs}
+::: {https://www.opennet.ru/docs/RUS/gnuemacs/emacs_20.html
+
+https://ru.wikipedia.org/wiki/Emacs}
 :::
